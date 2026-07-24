@@ -1,0 +1,8 @@
+# .gitignore for dt_explorer
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rprofile
+data/
+*.xlsx
